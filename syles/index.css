@@ -1,0 +1,11 @@
+form{
+    width: 60vh;
+}
+
+.positionContainer{
+    display: flex;
+    justify-content: center; /* centra horizontal */
+    align-items: center;     /* centra vertical */
+    height: 100vh; 
+    margin: 20px;
+}
