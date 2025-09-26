@@ -54,4 +54,6 @@ const checkPassword = ({password}, loginPassword) =>{
 }
 
 
-
+// btnCambio.addEventListener("click", () => {
+//   btnCambio.classList.toggle("btn-primary");
+// })
